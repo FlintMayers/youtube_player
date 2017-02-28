@@ -1,0 +1,232 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Roboto';
+}
+
+i {
+  color: #666;
+}
+
+nav {
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  padding: 7px 30px 8px 30px;
+  display: inline-block;;
+}
+
+.right-nav {
+  display: inline;
+  float: right;
+}
+
+form {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#logo {
+  width: 73px;
+  height: 50px;
+}
+
+input {
+  width: 582px;
+  height: 27px;
+  border: 1px solid gray;
+  margin-left: 60px;
+}
+
+#search {
+  width: 66px;
+  height: 29px;
+}
+you
+
+.signin {
+  color: white;
+  height: 28px;
+  width: 60px;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  width: 854px;
+  height: 170px;
+  background: white;
+}
+
+#heading {
+  width: 70%;
+  padding: 10px 0 0 10px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+}
+
+#video-options {
+    width: 50%;
+    float: left;
+}
+
+#video-options li {
+  padding: 10px;
+}
+#video-options li a {
+  color: #666;
+  text-decoration: none;
+}
+
+#likes {
+  width: 50%;
+  float: right;
+}
+
+.thumbs {
+  float: right;
+  background: white;
+}
+
+.user-info {
+  display: inline;
+}
+
+h6 {
+  display: inline;
+}
+
+#views {
+  float: right;
+  font-size: 19px;
+  color: #666;
+}
+
+span {
+  color: #666;
+}
+
+.descDate {
+  width: 854px;
+  background-color: white;
+  margin-top: 10px;
+  padding: 10px 20px 0 10px;
+}
+
+#more {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.comments {
+  width: 854px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+#comments {
+  display: block;
+}
+
+#addComment {
+  display: inline;
+}
+
+.time {
+    color: #666;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+.thread {
+  margin: 20px 40px 0 15px;
+}
+
+.avatarcommentbox {
+  padding: 10px 10px 0 15px;
+}
+
+.comment-actions {
+  padding-left: 50px;
+}
+
+.thumbcomment {
+  background-color: white;
+}
+
+.mini-comment {
+  padding-left: 50px
+}
+
+.thread p {
+  padding-left: 50px;
+}
+
+.main {
+  display: inline;
+  float: left;
+  margin-top: 10px;
+}
+
+/*Start Side Bar*/
+aside {
+  margin-top: 10px;
+  display: inline;
+  float: right;
+  width: 340px;
+  background-color: white;
+  padding: 10px;
+}
+
+#up {
+  display: inline;
+  font-size: 14px;
+}
+
+.rightful {
+  float: right;
+  padding-right: 5px;
+}
+
+
+.mini-video {
+  display: inline;
+  float: right;
+  margin-bottom: 10px;
+}
+
+.mvideo {
+  float: left;
+}
+
+.subscribe {
+  background-color: red;
+  padding: 3px;
+}
+
+.tube {
+  color: white;
+}
+
+#tubespan {
+  color: white;
+}
